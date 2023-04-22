@@ -1,0 +1,4 @@
+baseURL = 'http://eli173.net/'
+languageCode = 'es-es'
+title = 'Mi Blog'
+theme = 'ananke'

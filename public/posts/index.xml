@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Mi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 22 Apr 2023 13:44:57 +0200</lastBuildDate><atom:link href="http://eli173.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Apr 2023 17:34:21 +0200</lastBuildDate><atom:link href="http://eli173.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segundo Post</title>
+      <link>http://eli173.net/posts/segundo-post/</link>
+      <pubDate>Mon, 24 Apr 2023 17:34:21 +0200</pubDate>
+      
+      <guid>http://eli173.net/posts/segundo-post/</guid>
+      <description>Días La primera parte de crear el blog con Hugo fue bastante intuitiva. Ahora, la segundo parte que es montarlo y publicarlo en la web&amp;hellip; eso no ha sido tan sencillo.
+Pude publicarlo a través del servicio de Netlify pero siento que me hace falta conocimiento para poderlo configurarlo bien.
+Sigo en camino de poder alojar este blog en mi dominio, pero por ahora me conformo con que las cosas están aquí.</description>
+    </item>
+    
     <item>
       <title>Mi Primer Post</title>
       <link>http://eli173.net/posts/mi-primer-post/</link>

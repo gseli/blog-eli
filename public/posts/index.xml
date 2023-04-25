@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mi Blog</title>
+    <title>Posts on Blog Público Sin Público</title>
     <link>http://eli173.net/posts/</link>
-    <description>Recent content in Posts on Mi Blog</description>
+    <description>Recent content in Posts on Blog Público Sin Público</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 24 Apr 2023 17:34:21 +0200</lastBuildDate><atom:link href="http://eli173.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Apr 2023 17:01:03 +0200</lastBuildDate><atom:link href="http://eli173.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dia Veinticinco</title>
+      <link>http://eli173.net/posts/dia-veinticinco/</link>
+      <pubDate>Tue, 25 Apr 2023 17:01:03 +0200</pubDate>
+      
+      <guid>http://eli173.net/posts/dia-veinticinco/</guid>
+      <description>Espero poder dormir. Espero poder dormir y que no me hable nadie. O más bien, espero que me hablen antes de irme a dormir.
+Ayer me fui a dormir y me hablaron. Hoy en la mañana al despertar vi dos llamadas perdidas y me emocioné un poco, pensando en que alguien se habría intentado comunicar conmigo por alguna razón.
+Y, aunque en teoría cierto, la llamada era de una institución y no de un individio que conociera.</description>
+    </item>
+    
     <item>
       <title>Segundo Post</title>
       <link>http://eli173.net/posts/segundo-post/</link>

@@ -3,8 +3,12 @@
   <channel>
     <title>Tags on Blog Público Sin Público</title>
     <link>http://eli173.net/tags/</link>
-    <description>Recent content in Tags on Blog Público Sin Público</description>
+    <description>Blog Público Sin Público (Tags)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="http://eli173.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language>
+    
+    <atom:link href="http://eli173.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

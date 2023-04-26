@@ -3,19 +3,39 @@
   <channel>
     <title>Blog Público Sin Público</title>
     <link>http://eli173.net/</link>
-    <description>Recent content on Blog Público Sin Público</description>
+    <description>Blog Público Sin Público</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 25 Apr 2023 17:01:03 +0200</lastBuildDate><atom:link href="http://eli173.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Apr 2023 17:01:03 +0200</lastBuildDate>
+    
+    <atom:link href="http://eli173.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Dia Veinticinco</title>
       <link>http://eli173.net/posts/dia-veinticinco/</link>
       <pubDate>Tue, 25 Apr 2023 17:01:03 +0200</pubDate>
       
       <guid>http://eli173.net/posts/dia-veinticinco/</guid>
-      <description>Espero poder dormir. Espero poder dormir y que no me hable nadie. O más bien, espero que me hablen antes de irme a dormir.
-Ayer me fui a dormir y me hablaron. Hoy en la mañana al despertar vi dos llamadas perdidas y me emocioné un poco, pensando en que alguien se habría intentado comunicar conmigo por alguna razón.
-Y, aunque en teoría cierto, la llamada era de una institución y no de un individio que conociera.</description>
+      <description>&lt;p&gt;Espero poder dormir. Espero poder dormir y que no me hable nadie. O más bien, espero que me hablen antes de irme a dormir.&lt;/p&gt;
+&lt;p&gt;Ayer me fui a dormir y me hablaron. Hoy en la mañana al despertar vi dos llamadas perdidas y me emocioné un poco, pensando en que alguien se habría intentado comunicar conmigo por alguna razón.&lt;/p&gt;
+&lt;p&gt;Y, aunque en teoría cierto, la llamada era de una institución y no de un individio que conociera. Claro está que yo estaba esperando esta llamada y ahora tengo la esperanza de que esta noche vuelvan a hablar. De lo contrario, llamaré de nuevo y me tocará seguir este juego de esperar, perseguir, esperar, perseguir.&lt;/p&gt;
+&lt;h2 id=&#34;casi-como-mi-vida-diurna-excepto-que-ahí-solo-espero&#34; &gt;Casi como mi vida diurna, excepto que ahí solo espero.
+&lt;span&gt;
+    &lt;a href=&#34;#casi-como-mi-vida-diurna-excepto-que-ah%c3%ad-solo-espero&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;h2 id=&#34;hoy-soñé-algo-lindo-vi-unos-ojos-que-me-gustan-mucho-pero-al-despertar-me-encontré-sola-en-una-cama-ajena-en-una-habitación-ajena-en-un-mundo-ajeno&#34; &gt;Hoy soñé algo lindo. Vi unos ojos que me gustan mucho. Pero al despertar me encontré sola en una cama ajena, en una habitación ajena, en un mundo ajeno.
+&lt;span&gt;
+    &lt;a href=&#34;#hoy-so%c3%b1%c3%a9-algo-lindo-vi-unos-ojos-que-me-gustan-mucho-pero-al-despertar-me-encontr%c3%a9-sola-en-una-cama-ajena-en-una-habitaci%c3%b3n-ajena-en-un-mundo-ajeno&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;El día 25 es casi final del mes, dice mucho de quien lo espera y también de quien lo ignora.&lt;/p&gt;
+&lt;p&gt;Por mi parte siempre es un día de instrospección, quizás por haber nacido en un día de igual número, quizás porque le intento buscar un significado a cosas arbitrarias cuando no hay nada a que asirse en la soledad.&lt;/p&gt;
+&lt;p&gt;Lo considero un gran número para contar desde el principio. Desde 0, o desde 1. Desde la nada, desde el infinito.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -24,9 +44,19 @@ Y, aunque en teoría cierto, la llamada era de una institución y no de un indiv
       <pubDate>Mon, 24 Apr 2023 17:34:21 +0200</pubDate>
       
       <guid>http://eli173.net/posts/segundo-post/</guid>
-      <description>Días La primera parte de crear el blog con Hugo fue bastante intuitiva. Ahora, la segundo parte que es montarlo y publicarlo en la web&amp;hellip; eso no ha sido tan sencillo.
-Pude publicarlo a través del servicio de Netlify pero siento que me hace falta conocimiento para poderlo configurarlo bien.
-Sigo en camino de poder alojar este blog en mi dominio, pero por ahora me conformo con que las cosas están aquí.</description>
+      <description>&lt;h2 id=&#34;días&#34; &gt;Días
+&lt;span&gt;
+    &lt;a href=&#34;#d%c3%adas&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;La primera parte de crear el blog con Hugo fue bastante intuitiva. Ahora, la segundo parte que es montarlo y publicarlo en la web&amp;hellip; eso no ha sido tan sencillo.&lt;/p&gt;
+&lt;p&gt;Pude publicarlo a través del servicio de Netlify pero siento que me hace falta conocimiento para poderlo configurarlo bien.&lt;/p&gt;
+&lt;p&gt;Sigo en camino de poder alojar este blog en mi dominio, pero por ahora me conformo con que las cosas están aquí.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Hay muchas cosas cosas que quiero hacer&amp;hellip; O más bien dicho, hay cosas que quiero mucho hacer, pero entre que no es posible realizarlas y que siento que ha de pasar mas tiempo, el tiempo sigue pasando y no perdona ni un segundo.&lt;/p&gt;
+&lt;p&gt;Además de incurrir en hacer este blog, también he estado leyendo mucho. Me pongo los auriculares, pongo unas frecuencias para ayudar a concentrarme, me acuesto en la cama y me sumerjo en la lectura.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -35,7 +65,14 @@ Sigo en camino de poder alojar este blog en mi dominio, pero por ahora me confor
       <pubDate>Sat, 22 Apr 2023 13:44:57 +0200</pubDate>
       
       <guid>http://eli173.net/posts/mi-primer-post/</guid>
-      <description>¡Hola, Mundo! Este texto es bold, y este tiene énfasis.</description>
+      <description>&lt;h2 id=&#34;hola-mundo&#34; &gt;¡Hola, Mundo!
+&lt;span&gt;
+    &lt;a href=&#34;#hola-mundo&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Este texto es &lt;strong&gt;bold&lt;/strong&gt;, y este tiene &lt;em&gt;énfasis&lt;/em&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

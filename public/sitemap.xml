@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://eli173.net/</loc>
+    <loc>/</loc>
+    <lastmod>2023-04-26T13:00:43+02:00</lastmod>
+  </url><url>
+    <loc>/posts/jugar-experimentar/</loc>
+    <lastmod>2023-04-26T13:00:43+02:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-04-26T13:00:43+02:00</lastmod>
+  </url><url>
+    <loc>/posts/dia-veinticinco/</loc>
     <lastmod>2023-04-25T17:01:03+02:00</lastmod>
   </url><url>
-    <loc>http://eli173.net/posts/dia-veinticinco/</loc>
-    <lastmod>2023-04-25T17:01:03+02:00</lastmod>
-  </url><url>
-    <loc>http://eli173.net/posts/</loc>
-    <lastmod>2023-04-25T17:01:03+02:00</lastmod>
-  </url><url>
-    <loc>http://eli173.net/posts/segundo-post/</loc>
+    <loc>/posts/segundo-post/</loc>
     <lastmod>2023-04-24T17:34:21+02:00</lastmod>
   </url><url>
-    <loc>http://eli173.net/posts/mi-primer-post/</loc>
+    <loc>/posts/mi-primer-post/</loc>
     <lastmod>2023-04-22T13:44:57+02:00</lastmod>
   </url><url>
-    <loc>http://eli173.net/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://eli173.net/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

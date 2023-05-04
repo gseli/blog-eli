@@ -6,7 +6,7 @@ date: 2023-05-03T21:30:56+02:00
 
 Yo si.
 
-“Cuando está mal, Eli no habla” es la descripción. Pero ya no soy esa persona.
+“Cuando está Eli mal, Eli no habla” es la descripción. Pero  ya no soy esa persona.
 
 Así que estoy hablando. 
 

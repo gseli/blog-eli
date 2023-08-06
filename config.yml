@@ -16,9 +16,6 @@ menu:
     weight: 0
 
 params:
-  taxonomies:
-    category: categories
-    tag: tags
   author: "Eli"
   email: eli@eli173.net # used for microformats
   avatar: "/images/me.png" # used for microformats

@@ -1,6 +1,8 @@
 ---
 title: "Futuras Mejoras"
 date: 2023-06-04T20:54:15+02:00
+tags:
+- blog
 ---
 
 Futuras mejoras para este blog:

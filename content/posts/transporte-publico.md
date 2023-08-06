@@ -1,6 +1,8 @@
 ---
 title: "Transporte Público"
 date: 2023-05-09T21:39:26-06:00
+tags:
+- personal
 ---
  En mi época universitaria era normal pasar 1 hora en el transporte público (de ida y de regreso). 
 

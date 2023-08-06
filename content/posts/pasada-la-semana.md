@@ -1,6 +1,8 @@
 ---
 title: "Pasada La Semana"
 date: 2023-04-30T18:56:12+02:00
+tags:
+- personal
 ---
 
 Pasada la semana desde que inicié este blog me siento muy contenta. Siento que he logrado algo, aunque sea pequeño para algunos, para mi ha sido un refugio.

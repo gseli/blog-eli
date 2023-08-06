@@ -1,6 +1,8 @@
 ---
 title: "Dia Veinticinco"
 date: 2023-04-25T17:01:03+02:00
+tags:
+- personal
 ---
 Espero poder dormir. Espero poder dormir y que no me hable nadie. O más bien, espero que me hablen antes de irme a dormir.
 

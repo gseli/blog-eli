@@ -1,6 +1,8 @@
 ---
 title: "Dos Lunas"
 date: 2023-07-03T23:07:40+02:00
+tags:
+- glitch
 ---
 
 Dos lunas llenas he visto en las que han sido las más oscuras noches.

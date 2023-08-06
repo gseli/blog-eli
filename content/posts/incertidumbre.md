@@ -1,6 +1,8 @@
 ---
 title: "Incertidumbre"
 date: 2023-04-28T13:36:38+02:00
+tags:
+- glitch
 ---
 
 Últimamente hay mucha incertidumbre en mi vida. 

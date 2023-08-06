@@ -1,6 +1,8 @@
 ---
 title: "Chispa"
 date: 2023-05-07T14:30:38-06:00
+tags:
+- personal
 ---
 
 Hoy me han dicho, casi sin querer y escondido entre pláticas intrascendentes, que tengo una chispa en mi... Y que esa chispa se apagaba aveces.

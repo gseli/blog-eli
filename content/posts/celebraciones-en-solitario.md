@@ -1,6 +1,8 @@
 ---
 title: "Celebraciones en Solitario"
 date: 2023-05-31T21:40:26+02:00
+tags:
+- personal
 ---
 
 Dos cervezas, dos celebraciones, dos lugares, una persona.

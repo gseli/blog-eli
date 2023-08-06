@@ -1,6 +1,9 @@
 ---
 title: "Lo Contrario Al Orgullo"
 date: 2023-06-25T21:08:21+02:00
+tags:
+- personal
+- escritura
 ---
 
 Siento algo a lo que le he puesto la etiqueta de contrario al orgullo. Lo siento cada vez que me siento desplazada por fantasmas. Cuando desenfoco la mirada y me abraza un poco más el cansancio y la oscuridad.

@@ -1,6 +1,9 @@
 ---
 title: "La Sombra En El Jardin"
 date: 2023-04-29T18:01:19+02:00
+tags:
+- escritura
+- fragmentos
 ---
 
 Entré al jardín y lo primero que quise hacer fue perderme en el laberinto. Entré con bastante confianza y quizás un poco de arrogancia, pues estaba segura de que salir de ahí no podía ser algo tan difícil.

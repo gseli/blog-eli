@@ -1,6 +1,8 @@
 ---
 title: "Surfing Pikachu"
 date: 2023-07-08T20:40:07+02:00
+tags:
+- canciones
 ---
 
 I feel like what I think surfing pikachu feels like

@@ -1,6 +1,8 @@
 ---
 title: "Descanso"
 date: 2023-05-24T23:02:39+02:00
+tags:
+- personal
 ---
 
 He descansado unos días del blog y de casi todo el mundo. 

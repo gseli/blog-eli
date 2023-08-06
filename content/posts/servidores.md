@@ -1,6 +1,8 @@
 ---
 title: “Comentarios con Isso y servidores"
 date: 2023-05-02T17:16:09+02:00
+tags:
+- blog
 ---
 Para habilitar comentarios he estado leyendo sobre isso, un servicio parecido a Discuss para adminisitrar/manejar/permitir? comentarios en tu blog.
 

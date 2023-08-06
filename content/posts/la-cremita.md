@@ -1,6 +1,8 @@
 ---
 title: "La Cremita"
 date: 2023-06-15T19:31:38+02:00
+tags:
+- fragmentos
 ---
 
 La Cremita es con quien comparto cama.

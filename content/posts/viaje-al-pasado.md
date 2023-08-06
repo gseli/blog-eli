@@ -1,6 +1,8 @@
 ---
 title: "Viaje Al Pasado"
 date: 2023-07-06T17:37:19+02:00
+tags:
+- glitch
 ---
 
 Viajé al pasado en un sueño. Mi obsesión con ellos no basta, han estado conmigo toda la vida. Todas las vidas.

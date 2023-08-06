@@ -1,6 +1,9 @@
 ---
 title: "Se Busca"
 date: 2023-07-23T17:27:01+02:00
+tags:
+- escritura
+- fragmentos
 ---
 
 Se buscan personas para emocionarse.

@@ -1,6 +1,9 @@
 ---
 title: "Hundirse"
 date: 2023-05-06T09:19:18-06:00
+tags:
+- glitch
+- escritura
 ---
 Confirmo, por medio de mis exploraciones, que es posible hundirse en cosas distintas a los líquidos.
 

@@ -1,6 +1,8 @@
 ---
 title: "Jugar, Experimentar. "
 date: 2023-04-26T13:00:43+02:00
+tags:
+- personal
 ---
 
 Hoy escuché algo muy interesante en la tele: “Jugar es mi escudo”. 

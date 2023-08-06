@@ -1,6 +1,8 @@
 ---
 title: "Leer Y Dibujar"
 date: 2023-05-27T22:10:21+02:00
+tags:
+- personal
 ---
  Mi tiempo libre ha estado empapado de estas dos, casi no ha dejado espacio para otras cosas.
 

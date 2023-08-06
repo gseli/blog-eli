@@ -1,6 +1,8 @@
 ---
 title: "Siguiente Nivel"
 date: 2023-08-02T22:07:26+02:00
+tags:
+- personal
 ---
 
 Hoy empecé el nivel 2.

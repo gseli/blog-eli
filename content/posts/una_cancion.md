@@ -1,6 +1,8 @@
 ---
 title: "Una canción"
 date: 2023-05-04T20:40:11+02:00
+tags:
+- canciones
 ---
 
 ...

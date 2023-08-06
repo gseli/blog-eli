@@ -1,6 +1,8 @@
 ---
 title: "Callada"
 date: 2023-05-03T21:30:56+02:00
+tags:
+- personal
 ---
 ¿Alguna vez te has sentido identificado al mismo tiempo que alguien te ofrece una descripción tuya que no esperabas?
 

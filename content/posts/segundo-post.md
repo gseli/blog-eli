@@ -1,6 +1,8 @@
 ---
 title: "Segundo Post"
 date: 2023-04-24T17:34:21+02:00
+tags:
+- blog
 ---
 ## Días
 

@@ -1,6 +1,8 @@
 ---
 title: "Despertar Dormir"
 date: 2023-05-08T21:49:03-06:00
+tags:
+- personal
 ---
 
 He estado durmiendo mucho últimamente. No sé si es por los antidepresivos que empecé a tomar, o si hay una razón más oscura detrás de mi somnolencia sobre la cual evito ahondar. Me despierto constantemente en la muda madrugada y siento que algo se arranca de mí. Es como si estuviera perdiendo una parte de mí misma, una fibra que me conecta con mi hogar, con mi esencia.

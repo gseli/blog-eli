@@ -1,6 +1,8 @@
 ---
 title: "¿Qué hago con esto?"
 date: 2023-05-29T20:23:51+02:00
+tags:
+- glitch
 ---
 
 Cierro los ojos y ¡bum!, despierto. 

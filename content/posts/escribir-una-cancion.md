@@ -1,6 +1,9 @@
 ---
 title: "Escribir Una Cancion"
 date: 2023-06-01T19:37:10+02:00
+tags:
+- canciones
+- escritura
 ---
 
 No salen las palabras,

@@ -1,6 +1,9 @@
 ---
 title: "Peregrinos"
 date: 2023-04-27T16:24:04+02:00
+tags:
+- fragmentos
+- glitch
 ---
 
 Somos peregrinos errantes en este mundo.

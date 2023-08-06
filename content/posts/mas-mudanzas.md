@@ -1,6 +1,9 @@
 ---
 title: "Mas Mudanzas"
 date: 2023-07-24T20:25:16+02:00
+tags:
+- canciones
+- personal
 ---
 Mudanzas, bailes urbanos
 De aquí a allá,

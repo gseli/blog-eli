@@ -27,3 +27,16 @@ Y ahora estoy aquí.
 Le quedan horas a mi día todavía. Incluse ya voy a actualizar este blog. Tengo ya la cena. 
 
 Y al final del día volveré a dormir en cama ajena.
+
+---
+¡Este es mi post número 50 y no me había dado cuenta!
+
+Woaaaaaah.
+
+Esta es una meta personal cumplida. Incluso ya estoy pensando en otros blogs jejejeje.
+
+Los motivos de empezarlos fueron mantenerme ocupada después del trabajo, aprender algo nuevo y llegar a 100 posts. Bueno, pues 2 de 3 llevo ya.
+
+Gracias por haber llegado hasta aquí :’)
+
+¡Voy por los otros 50!

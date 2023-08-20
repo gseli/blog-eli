@@ -5,6 +5,7 @@ tags:
 - libros
 - extracto
 - Tony Fadell
+- Felt cute, might delete later
 ---
 
 Si vas a dedicar tu tiempo, tu energía y tu juventud a una empresa, busca una que no se dedique a mejorar trampas para ratones.

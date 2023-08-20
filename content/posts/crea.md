@@ -25,3 +25,5 @@ Busca un negocio que esté empezando una revolución. Las empresas que pueden pr
 
 ---
 Extracto de “Crea” por Tony Fadell.
+
+Dedico con mucho cariño este post a mi amigo Eddie, que ahora sé que lee mi blog y sabe que me oriné en público :)

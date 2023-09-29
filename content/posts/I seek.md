@@ -63,6 +63,11 @@ Saludo a las palabras que pense nunca diria
 やっと　何かに気づくひとりよがりに goodbye
 Al fin me doy cuenta de algo, me despido de mi yo engreido
 
+新しい季節　新しい光　新しい風が
+Un nuevo tiempo, una nueva luz, un nuevo viento
+ゆっくり僕を連れてく
+todos ellos me llevan lentamnete consigo 
+
 こんなに愛したい　君に恋したい
 Quiero amarte tanto, quiero enamorarme de ti
 まだまだまだ　恋がないない

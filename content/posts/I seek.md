@@ -1,6 +1,9 @@
 ---
 title: "I seek"
 date: 2023-09-28T18:09:50+02:00
+tags:
+- Music
+- Arashi
 ---
 
 存在もいつかは溶けてく　

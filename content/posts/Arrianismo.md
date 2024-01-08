@@ -1,9 +1,9 @@
 ---
 title: "Arrianismo"
 date: 2024-01-08T18:57:30+01:00
+tags: 
+- data
 ---
-
-#SigloIV
 
 El arrianismo fue una doctrina teológica del [[cristianismo]] primitivo asociada a Arrio, un presbítero cristiano en Alejandría. Surgió en el siglo IV y sostenía que Jesucristo era una entidad creada y no coeterna con Dios Padre. Este desacuerdo teológico llevó al Primer Concilio de Nicea en el 325 d.C., donde se formuló el Credo de Nicea para refutar las ideas arrianas.
 

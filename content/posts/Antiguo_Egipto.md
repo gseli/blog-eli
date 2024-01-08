@@ -1,7 +1,9 @@
 ---
 title: "Antiguo_Egipto"
 date: 2024-01-08T18:54:40+01:00
-tags: wip, update
+tags: 
+- wip
+- update
 ---
 
 La civilización egipcia se desarrolló a lo largo del río Nilo, cuyas inundaciones anuales permitían una agricultura próspera.

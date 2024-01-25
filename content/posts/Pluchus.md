@@ -1,7 +1,6 @@
 ---
 tags:
   - pluchus
-  - oño
   - lore
 title: Pluchus
 date: 2024-01-25T18:29:00

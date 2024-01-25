@@ -18,7 +18,7 @@ Me hacen temblar y endurecerme al mismo tiempo.
 
 Lo siento en los brazos. Me cuesta mantenerlos relajados. No pueden estar abajo.
 
-Se me oprime el pecha al pensar en uno de esos pequeños instantes, ese momento donde todo da un giro, gyakutten.
+Se me oprime el pecho al pensar en uno de esos pequeños instantes, ese momento donde todo da un giro, gyakutten.
 
 Es como si apagaran todas las luces y al encenderlas todo es completamente distinto. Pero ese apagón dura…nada, o lo más cercano a la nada que imagino.
 

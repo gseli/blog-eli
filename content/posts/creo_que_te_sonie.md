@@ -2,7 +2,7 @@
 title: "Creo que te soñé"
 tags:
   - personal
-  - poesia
+  - canción
 date: 2023-11-16T17:11:56+01:00
 ---
 

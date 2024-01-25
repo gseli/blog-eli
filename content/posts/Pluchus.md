@@ -6,6 +6,7 @@ tags:
   - lore
 date: 2024-01-25T18:29:00
 ---
+
 Los Pluchus son fascinantes criaturas acuáticas que tienen su morada en charcos y cuerpos de agua pequeños, aunque es raro encontrarlos en lagos más extensos. Su peculiar hábitat se debe a que los Pluchus residen en un mundo paralelo, un reino acuático mágico subterráneo conectado a nuestra realidad a través de estos pequeños cuerpos de agua.
 
 Para los humanos, solo vemos el reflejo del agua, pero debajo de estos charcos y con la magia adecuada, se despliega toda una red que conecta con centros más grandes habitados por los Pluchus. Estas criaturas son maestras en la habilidad de la invisibilidad, pudiendo disolver sus cuerpos en una especie de ácido para escapar y escurrirse hasta el charco más cercano.

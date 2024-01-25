@@ -1,11 +1,10 @@
 ---
-tags:
-  - Egipto
-  - mitología
-  - diosas
-  - mujeres
-date: 2024-01-25T18:18:00
 title: "Nephtys"
+date: 2024-01-25T18:59:40+01:00
+tags:
+- Egipto
+- Mitología
+- Diosas
 ---
 
 

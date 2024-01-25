@@ -1,5 +1,5 @@
 ---
-title: Pluchus
+title: "Pluchus"
 tags:
   - pluchus
   - oño

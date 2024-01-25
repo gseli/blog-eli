@@ -1,8 +1,9 @@
 ---
-title: "Pluchus"
+title: Pluchus
 tags:
-- pluchus
-- lore
+  - pluchus
+  - oño
+  - lore
 date: 2024-01-25T18:29:00
 ---
 Los Pluchus son fascinantes criaturas acuáticas que tienen su morada en charcos y cuerpos de agua pequeños, aunque es raro encontrarlos en lagos más extensos. Su peculiar hábitat se debe a que los Pluchus residen en un mundo paralelo, un reino acuático mágico subterráneo conectado a nuestra realidad a través de estos pequeños cuerpos de agua.

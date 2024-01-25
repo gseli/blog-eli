@@ -2,7 +2,7 @@
 tags:
   - Egipto
   - alma
-date: 2023-11-10T17:04:00
+date: 2023-11-19T17:04:00
 title: Ka
 ---
 El concepto de "Ka" era un elemento fundamental en la comprensión del antiguo [[Egipto]] sobre el [[alma]] y la vida después de la muerte. 

@@ -53,8 +53,8 @@ Porque todavía nos quedan corazones que creen.
 ねえ僕らはこれまでだってこれからだって  
 多くのことを望んだりはしないよ
 
-Oye, hasta ahora y desde ahora
-no deseemos muchas cosas
+Oye, nunca lo hemos hecho y tampoco lo haremos
+desear muchas cosas.
 
 同じ時間を刻んで同じ未来信じてるふたり  
 昨日の涙も今日の笑顔も真実なまま

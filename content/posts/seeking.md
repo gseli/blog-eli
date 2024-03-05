@@ -1,0 +1,12 @@
+---
+title: "Seeking"
+date: 2024-03-05T21:42:26+01:00
+---
+
+Desde que tengo memoria, los sueños han sido una parte esencial de mí y de mi vida. Siempre he experimentado sueños lúcidos, casi a diario. Sin embargo, hace muchos años, tuve un sueño extraordinariamente distinto. Recuerdo que se sentía notablemente diferente a los demás, como si pudiera palparlo en mi piel y en la fluidez del tiempo. Lo más impactante fue el encuentro con una persona que desencadenó una oleada de emociones como nunca antes había experimentado. A través de su mirada, percibí que él también compartía ese torrente emocional. Aunque apenas recuerdo detalles de ese sueño inicial, sí tengo presente la imagen de su espalda, adornada con unas alas de ángel. En aquel entonces, ni yo ni mi entorno éramos particularmente devotos, lo que hacía aún más enigmática la presencia de esta figura en mis sueños.
+
+Recuerdo que él mencionó su nombre, pero como suele suceder en estos casos, en el momento parecía tener sentido, pero ahora, al escribir estas palabras, resulta incomprensible. Quedó en mi mente la vaga sensación de haber visto unas letras, quizás una "M"... esa letra resonaba especialmente con mi yo despierto, ahora obsesionado por aquel sueño tan vívido, aquel joven, aquella mirada y aquellos sentimientos... como un dolor sutil que se disipa para dar paso al alivio que emana de su presencia.
+
+Esporádicamente, reaparecía en un par de sueños, siempre rodeado de esa poderosa aura que me hacía sentir segura, confirmando que era él. Llegué a la conclusión de que esta persona se llamaba Migue (por Miguel, ¡ja!) y durante muchos años continuó apareciendo en mis sueños, siempre en encuentros fugaces pero intensos. Sentía una fuerte convicción de que debía encontrarlo, de que nuestro encuentro era inevitable. Cada vez que llegaba a un lugar nuevo, escrutaba todas las caras con la esperanza de encontrar su rostro entre ellas.
+
+Recuerdo que todas las noches le pedía a Dios que me permitiera verlo, hablar con él, conocerlo... pero nada. Sentía que debía esperar y esperar, y eso hice... En mi corazón, no había espacio para nadie más que él, tal vez lo había idealizado demasiado. Hace mucho que no lo veo en mis sueños, y ahora me pregunto si es real o si simplemente fue parte de una serie de sueños extraños. Me pregunto si él también sueña conmigo, si sabe quién soy o si alguna vez sabrá mi nombre... ¿Me estará buscando?

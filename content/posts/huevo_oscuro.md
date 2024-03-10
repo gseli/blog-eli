@@ -19,3 +19,5 @@ Todo ha empezado hace unas 24 lunas nuevas, quizás más. De ese primer huevo os
 Para imaginar a Catsun, uno tiene que tener en la mente el espíritu de un bebé (o la escencia de uno) envuelto en la forma de un murciélago.
 
 Catsun, al igual que todos sus hermanos y hermanas, no me pertenecen. Han formado un vínculo con el humano que los ha cuidado y los ha visto eclosionar en una noche de luna nueva. Todos y cada uno de ellos tiene a su pequeña criatura que los cuida y convive con ellos de maneras...modernas.
+
+...¿Pero esa frase es para los humanos o para los que salen del huevo?

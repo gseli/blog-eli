@@ -10,4 +10,8 @@ tags:
 
 A otros mundos, a otros horizontes. Este ha sido un hermoso viaje :)
 
+Aquí les dejo esta playlist en la que he estado añadiendo canciones pensando en cómo sonaría un videojuego de Oñoño.
+
+¡Espero que encuentren algo que quieran quedarse en su mundo!
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2ac20hMktxvn2xgroov44P?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

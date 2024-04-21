@@ -4,6 +4,8 @@ date: 2024-04-21T16:01:20+02:00
 tags:
 - personal
 ---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4LCB47WRcLNKileHcmAqjV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Cuando era muy pequeña, tenía la extravagante fantasía de que un conejo azul era mi novio, ¡ja, ja! Hago énfasis en lo de "muy pequeña". Desde entonces, ha persistido en mí una fascinación inconsciente por los seres de orejas largas.
 
 En la preparatoria, creé un personaje bastante peculiar, llamado "Maco" por "Malo Conejo". Era una especie de conejo bastante rudimentario, con un parche en el ojo, un garfio y una cicatriz en forma de equis en la cara. ¡Era malvado! ...y un conejo, ¡ja, ja!

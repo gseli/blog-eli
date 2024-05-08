@@ -5,6 +5,8 @@ tags:
 - Arashi
 ---
 
+le="border-radius:12px" src="https://open.spotify.com/embed/track/7jqRTdBUqN$
+
 12時を少し過ぎる頃 (oh no!)  
 残酷な Monster  
 月明かり草木眠る頃 (oh no!)   

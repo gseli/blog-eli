@@ -88,6 +88,10 @@ Iluminado por la luna, cuando hasta los árboles duerme
 
 君の涙で 僕は目覚める  
 今宵の闇へ 君を連れ出す  
+
+Con tus lágrimas, yo despierto
+Te atraigo hacia la oscuridad de la noche
+
 僕の記憶が全て消えても  
 生まれ変わったら また君を探す  
 見かけじゃなくて 心を抱いて  

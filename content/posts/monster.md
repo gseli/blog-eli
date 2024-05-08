@@ -5,7 +5,8 @@ tags:
 - Arashi
 ---
 
-le="border-radius:12px" src="https://open.spotify.com/embed/track/7jqRTdBUqN$
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7jqRTdBUqNhJaI0fKdOClO?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 12時を少し過ぎる頃 (oh no!)  
 残酷な Monster  

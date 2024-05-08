@@ -5,7 +5,7 @@ date: 2024-05-08T21:44:07+02:00
 
 Que felicidad me dan
 10 minutos al día
-6000 segundos de reconstrucción
+600 segundos de reconstrucción
 células fusionándose en nueva creación
 
 10 minutos al día

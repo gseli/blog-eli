@@ -1,6 +1,6 @@
 ---
 title: "Amistar"
-date: 2023-05-09T21:45:30+09:00
+date: 2024-05-09T21:45:30+09:00
 tags:
   - personal
   - Música

@@ -39,7 +39,7 @@ Su sonrisa, aunque distinta a la tuya, tenía una calidez que me envolvía. Habl
 
 ---
 
-**2024-07-05**
+Abril
 
 Hoy es viernes. Es el primer día de la semana que veo venir al doppel. Le he cogido cariño. No sabe que lo veo porque me recuerda a ti. Ahora se ha dado cuenta de que lo observo demasiado, quizás. A veces lo pillo viéndome a mí también. Brevemente hacemos contacto y luego yo pretendo que estaba viendo otra cosa.
 
@@ -59,7 +59,7 @@ Aunque sea tu doppel, aunque cada cosa que haga me haga pensar más en ti, le es
 
 ---
 
-**24/jul**
+Mayo
 
 Hoy el doppel se ha ido de la isla. No hubo despedidas, no hubo palabras finales. Simplemente desapareció.
 

@@ -67,5 +67,3 @@ Me había dicho que regresaría en tres meses. Al parecer, se fue con alguien m�
 
 Hablamos porque me acerqué a invitarlo a comer. Dijo que lo dejáramos para cuando volviera, pero nunca volvimos a vernos ese día. Se fue sin que yo pudiera verlo partir, dejándome con la sensación de una promesa rota, de un encuentro que nunca se concretó.
 
-¿Invité a un hombre a comer? ¡¿Y me dijo que no?! 😂 Igual que contigao, queda sin resolver el misterio de cómo es comer juntos (fuera de casa).
-

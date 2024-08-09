@@ -8,7 +8,7 @@ tags:
 
 Rium, el Payaso Errante
 
-Un día, un forastero llegó a Cobalia. Era un hombre alto y delgado, vestido con coloridos harapos, llenas de parches de tela de diferentes tonalidades. Su rostro estaba cubierto de maquillaje blanco, con un gran círculo azul en el ojo izquierdo y un pequeño círculo alrededor del ojo derecho, y una sonrisa pintada que ocultaba su expresión real. Su nombre era Rium, y era un payaso errante, uno que había recorrido los rincones más oscuros de Astolba, llevando consigo la melancolía de los lugares que había visto y las tragedias de las que había sido testigo.
+Un día, un forastero llegó a Cobalia. Era un hombre alto y delgado, vestido con coloridos harapos, llenos de parches de tela de diferentes tonalidades. Su rostro estaba cubierto de maquillaje blanco, con un gran círculo azul en el ojo izquierdo y un pequeño círculo alrededor del ojo derecho, y una sonrisa pintada que ocultaba su expresión real. Su nombre era Rium, y era un payaso errante, uno que había recorrido los rincones más oscuros de Astolba, llevando consigo la melancolía de los lugares que había visto y las tragedias de las que había sido testigo.
 
 A pesar de su apariencia estrafalaria, era difícil no sentirse conmovido por su presencia. La gente del pueblo, al principio, lo recibió con desconfianza, pero pronto se dieron cuenta de que su humor, aunque sombrío, tenía una capacidad única de resonar con las personas. Sus actuaciones eran extrañas, mezclando risas con lágrimas, comedia con tragedia. Rium podía hacer que una persona se riera hasta llorar y luego, sin previo aviso, hacer que esas lágrimas fueran de tristeza genuina.
 

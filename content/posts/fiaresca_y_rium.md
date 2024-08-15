@@ -7,7 +7,7 @@ tags:
 ---
 Capítulo 2: La Magia de lo Incontrolable
 
-El camino por Astolba siempre es un peligro en la oscuridad. La vegetación, que prosperaba en la tenue luz, tenía un brillo etéreo, y las criaturas nocturnas que deambulaban los Feliscas:fFelinos grandes y sigilosos con pelaje oscuro que absorbe la luz, haciéndolos casi invisibles en las sombras. 
+El camino por Astolba siempre es un peligro en la oscuridad. La vegetación, que prosperaba en la tenue luz, tenía un brillo etéreo, que contrastaba con pelaje oscuro que absorbe la luz de los Feliscas, enormes felinos que son casi invisibles en las sombras. 
 
  Fiaresca y Rium avanzaban con cautela, siempre atentos a los movimientos en la penumbra.
 
@@ -27,7 +27,7 @@ Rium, un poco avergonzado pero con una sonrisa en los labios, se encogió de hom
 
 Fiaresca continuó riendo, y Rium se dio cuenta de que, aunque su truco no había salido como esperaba, había logrado algo aún más importante: había hecho reír a Fiaresca. Su corazón latía con fuerza, y una cálida sensación se extendió por su pecho. Por primera vez en mucho tiempo, sintió que la risa en su cabeza, la que no acababa de salir, no era hueca, sino genuina.
 
-“Deberías ser más cuidadosa, dijo Fiaresca finalmente viendolo a la piedra. “Aunque debo admitir que fue bastante divertido.”
+“Deberías ser más cuidadosa, dijo Fiaresca finalmente viendo a la piedra. “Aunque debo admitir que fue bastante divertido.”
 
 Rium sonrió ampliamente. “¡Esa es la idea! Pero, ¿sabes qué? Es un truco perfecto para un payaso. La vida es impredecible, y la magia también debería serlo.”
 

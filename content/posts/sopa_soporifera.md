@@ -5,6 +5,8 @@ draft:
 - Wendolin
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CzKIRwoFiFQ?si=0XnFPTlhkGKGlKzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Son las 5:55. Wendolin cruza la puerta de su habitación, empujando el umbral con un leve crujido de bisagras y madera vieja que se mezcla con un zumbido continuo. Coloca sus dos bolsos: uno con un suave golpe en el gancho detrás de la puerta,  el otro aterriza con un susurro en el suelo, junto a una de las criaturas, que parpadea lentamente, como si nada hubiera cambiado. A veces, Wendolin siente que es ella quien comparte el espacio con las criaturas, más que al revés.
 
 Algunas de ellas se acercan con pasos suaves, sus pies pequeños apenas audibles sobre el suelo, sus ojos grandes y redondos reflejando la luz cálida que se filtra a través de las cortinas. Wendolin les sonríe. Ellas responden, llamándola por su nombre, alargando la "i" de Wendolin en un eco juguetón que resuena en las paredes de la habitación, en casa y fuera de ella.

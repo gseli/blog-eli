@@ -2,8 +2,7 @@ languageCode: "en-us"
 baseUrl: ""
 title: "Blog Público Sin Público"
 theme: "anubis"
-paginate: 10
-disqusShortname: "yourdiscussshortname"
+pagerSize: 10
 googleAnalytics: "G-12345"
 enableRobotsTXT: true
 

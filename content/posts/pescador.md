@@ -13,5 +13,3 @@ Es su canto lo que me atraviesa, porque casi nunca me habla. Siento a través de
 Es de manos ágiles y cuidadosas. Siempre encuentran una manera de estar cerca de mi, repartiendo una caricia siempre que me fijo en ellas y su belleza.
 
 Mi pescador, que me canta, y también transform colores en formas, haciendo alquimia de manchas en seres.
-
-

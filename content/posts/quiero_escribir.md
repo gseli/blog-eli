@@ -18,7 +18,7 @@ Quiero ser el objeto
 de tu adoración,
 la única a quien le dediques
 tus contemplaciones
-y tus consolaciones.
+y tus solitarias consolaciones.
 
 Quiero cantarte cosas obscenas
 sin que te des cuenta,

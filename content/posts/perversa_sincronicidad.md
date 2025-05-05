@@ -2,7 +2,7 @@
 title: "Perversa_sincronicidad"
 date: 2025-05-05T07:34:25+02:00
 tags:
-- poema
+- poesia
 ---
 Jadeo.
 Vaho caliente.

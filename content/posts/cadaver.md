@@ -1,8 +1,7 @@
 ---
 title: "Cadaver"
 date: 2025-08-05T21:28:53+02:00
-draft: true
-tags: [lyrics]
+tags: ['lyrics']
 ---
 
 Ese hombre ya murió

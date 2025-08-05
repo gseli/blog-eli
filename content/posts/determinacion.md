@@ -1,6 +1,6 @@
 ---
 title: "Determinación"
-date: 2023-10-10T011:42:39+09:00
+date: 2023-10-10
 ---
 
 Hoy he hablado de recuperar la determinación perdida. MI determinación.

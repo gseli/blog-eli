@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canción on Blog Público Sin Público</title>
+    <link>/tags/canci%C3%B3n/</link>
+    <description>Recent content in Canción on Blog Público Sin Público</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2023 17:11:56 +0100</lastBuildDate>
+    <atom:link href="/tags/canci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creo que te soñé</title>
+      <link>/posts/creo_que_te_sonie/</link>
+      <pubDate>Thu, 16 Nov 2023 17:11:56 +0100</pubDate>
+      <guid>/posts/creo_que_te_sonie/</guid>
+      <description>&lt;p&gt;Es posible&#xA;Que haya soñado el otro día contigo&#xA;Un rostro familiar&#xA;Unos ojos con fuerza de gravedad&#xA;Arrastrando mi mirada&lt;/p&gt;&#xA;&lt;p&gt;Tu que pescas&#xA;¿De verdad quieres saber que piensan las sirenas?&#xA;Esfera&#xA;Huevo de nereida&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

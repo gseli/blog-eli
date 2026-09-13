@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prueba on Blog Público Sin Público</title>
+    <link>/tags/prueba/</link>
+    <description>Recent content in Prueba on Blog Público Sin Público</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Aug 2023 17:04:24 +0200</lastBuildDate>
+    <atom:link href="/tags/prueba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Etiquetas</title>
+      <link>/posts/etiquetas/</link>
+      <pubDate>Sun, 06 Aug 2023 17:04:24 +0200</pubDate>
+      <guid>/posts/etiquetas/</guid>
+      <description>&lt;p&gt;Hola&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

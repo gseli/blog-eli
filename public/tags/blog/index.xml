@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Blog Público Sin Público</title>
+    <link>/tags/blog/</link>
+    <description>Recent content in Blog on Blog Público Sin Público</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Feb 2024 18:42:48 +0100</lastBuildDate>
+    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Road to 100</title>
+      <link>/posts/road_to_100/</link>
+      <pubDate>Wed, 21 Feb 2024 18:42:48 +0100</pubDate>
+      <guid>/posts/road_to_100/</guid>
+      <description>&lt;p&gt;¡Ya casi llegamos a las 100 entradas! :)&lt;/p&gt;&#xA;&lt;p&gt;Estoy: feliz.&lt;/p&gt;&#xA;&lt;p&gt;Gracias por llegar hasta aquí.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ghost</title>
+      <link>/posts/ghost/</link>
+      <pubDate>Wed, 16 Aug 2023 20:26:44 +0200</pubDate>
+      <guid>/posts/ghost/</guid>
+      <description>&lt;p&gt;Voy a empezar un blog con Ghost.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ghost.org&#34;&gt;https://ghost.org&lt;/a&gt; es una plataforma para alojar tu blog y promete que a través de su plataforma, de manera orgánica podrás atraer a una audiencia que podría pagar por más contenido.&lt;/p&gt;&#xA;&lt;p&gt;Ya tengo el dominio. Ya tengo la idea. Falta escribir y montarlo todo.&lt;/p&gt;&#xA;&lt;p&gt;Afortunadamente tengo amigos que me pueden ayudar en cada paso de esto, no me siento sola porque no lo estoy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Futuras Mejoras</title>
+      <link>/posts/futuras-mejoras/</link>
+      <pubDate>Sun, 04 Jun 2023 20:54:15 +0200</pubDate>
+      <guid>/posts/futuras-mejoras/</guid>
+      <description>&lt;p&gt;Futuras mejoras para este blog:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Posts programabables (Seguro que se puede)&lt;/li&gt;&#xA;&lt;li&gt;Etiquetas&lt;/li&gt;&#xA;&lt;li&gt;Contacto&lt;/li&gt;&#xA;&lt;li&gt;Comentarios&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Les recuerdo que este es un proyecto en progreso.&lt;/p&gt;&#xA;&lt;p&gt;¡Buen día!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“Comentarios con Isso y servidores&#34;</title>
+      <link>/posts/servidores/</link>
+      <pubDate>Tue, 02 May 2023 17:16:09 +0200</pubDate>
+      <guid>/posts/servidores/</guid>
+      <description>&lt;p&gt;Para habilitar comentarios he estado leyendo sobre isso, un servicio parecido a Discuss para adminisitrar/manejar/permitir? comentarios en tu blog.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://isso-comments.de/docs/guides/quickstart/&#34;&gt;La guía de inicio rápido&lt;/a&gt; contiene bastante información que al principio me fue muy desconcertante, no entendía para que era, cuales eran los formatos, o donde tenían que ponerse esos datos en primer lugar.&lt;/p&gt;&#xA;&lt;p&gt;Un buen amigo se tomó la paciencia y el tiempo (en un día libre además) para revisarlo conmigo e intentar explicarme las cosas. Ahora siento que al menos entiendo un poco más de el proceso de habilitarlos, mas quizás no tanto del detalle minuicioso de cómo eso se lleva a cabo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Segundo Post</title>
+      <link>/posts/segundo-post/</link>
+      <pubDate>Mon, 24 Apr 2023 17:34:21 +0200</pubDate>
+      <guid>/posts/segundo-post/</guid>
+      <description>&lt;h2 id=&#34;días&#34;&gt;Días&lt;/h2&gt;&#xA;&lt;p&gt;La primera parte de crear el blog con Hugo fue bastante intuitiva. Ahora, la segundo parte que es montarlo y publicarlo en la web&amp;hellip; eso no ha sido tan sencillo.&lt;/p&gt;&#xA;&lt;p&gt;Pude publicarlo a través del servicio de Netlify pero siento que me hace falta conocimiento para poderlo configurarlo bien.&lt;/p&gt;&#xA;&lt;p&gt;Sigo en camino de poder alojar este blog en mi dominio, pero por ahora me conformo con que las cosas están aquí.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

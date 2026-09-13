@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Catalán on Blog Público Sin Público</title>
+    <link>/tags/catal%C3%A1n/</link>
+    <description>Recent content in Catalán on Blog Público Sin Público</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2023 11:11:00 +0000</lastBuildDate>
+    <atom:link href="/tags/catal%C3%A1n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>T’estimo</title>
+      <link>/posts/testimo/</link>
+      <pubDate>Thu, 16 Nov 2023 11:11:00 +0000</pubDate>
+      <guid>/posts/testimo/</guid>
+      <description>&lt;p&gt;Te llamo&#xA;Y te escribo&#xA;Porque t’estimo&#xA;T’estimo&lt;/p&gt;&#xA;&lt;p&gt;Otro día llega&#xA;Sol, buenos días, sol&#xA;Encender, energía, cápsula&#xA;Volteo a ver&lt;/p&gt;&#xA;&lt;p&gt;Te llamo&#xA;Y te escribo&#xA;Porque t’estimo&#xA;T’estimo&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

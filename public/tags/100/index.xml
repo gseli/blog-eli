@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>100 on Blog Público Sin Público</title>
+    <link>/tags/100/</link>
+    <description>Recent content in 100 on Blog Público Sin Público</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Mar 2024 18:51:02 +0100</lastBuildDate>
+    <atom:link href="/tags/100/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imaginary Oñoño Game Ost</title>
+      <link>/posts/imaginary-ost/</link>
+      <pubDate>Wed, 20 Mar 2024 18:51:02 +0100</pubDate>
+      <guid>/posts/imaginary-ost/</guid>
+      <description>&lt;p&gt;¡Este es el post 100!&lt;/p&gt;&#xA;&lt;p&gt;A otros mundos, a otros horizontes. Este ha sido un hermoso viaje :)&lt;/p&gt;&#xA;&lt;p&gt;Aquí les dejo esta playlist en la que he estado añadiendo canciones pensando en cómo sonaría un videojuego de Oñoño.&lt;/p&gt;&#xA;&lt;p&gt;¡Espero que encuentren algo que quieran quedarse en su mundo!&lt;/p&gt;&#xA;&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/playlist/2ac20hMktxvn2xgroov44P?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+  </channel>
+</rss>

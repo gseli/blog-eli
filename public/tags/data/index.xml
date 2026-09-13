@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Blog Público Sin Público</title>
+    <link>/tags/data/</link>
+    <description>Recent content in Data on Blog Público Sin Público</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jan 2024 18:57:30 +0100</lastBuildDate>
+    <atom:link href="/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arrianismo</title>
+      <link>/posts/arrianismo/</link>
+      <pubDate>Mon, 08 Jan 2024 18:57:30 +0100</pubDate>
+      <guid>/posts/arrianismo/</guid>
+      <description>&lt;p&gt;El arrianismo fue una doctrina teológica del [[cristianismo]] primitivo asociada a Arrio, un presbítero cristiano en Alejandría. Surgió en el siglo IV y sostenía que Jesucristo era una entidad creada y no coeterna con Dios Padre. Este desacuerdo teológico llevó al Primer Concilio de Nicea en el 325 d.C., donde se formuló el Credo de Nicea para refutar las ideas arrianas.&lt;/p&gt;&#xA;&lt;p&gt;La importancia del arrianismo radica en su papel central en el debate cristológico temprano. El Concilio de Nicea condenó el arrianismo, estableciendo la divinidad coeterna del Hijo con el Padre. Aunque el arrianismo fue derrotado en ese momento, persistió en algunas áreas y tuvo implicaciones a lo largo de la historia, influyendo en la formulación de las creencias cristianas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

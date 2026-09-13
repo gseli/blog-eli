@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minilabs on Blog Público Sin Público</title>
+    <link>/tags/minilabs/</link>
+    <description>Recent content in Minilabs on Blog Público Sin Público</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Dec 2024 17:08:18 +0100</lastBuildDate>
+    <atom:link href="/tags/minilabs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I_See_U</title>
+      <link>/posts/i_see_u/</link>
+      <pubDate>Sun, 15 Dec 2024 17:08:18 +0100</pubDate>
+      <guid>/posts/i_see_u/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gseli.github.io/mini-labs/&#34;&gt;https://gseli.github.io/mini-labs/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

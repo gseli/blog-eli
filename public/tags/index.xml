@@ -4,7 +4,387 @@
     <title>Tags on Blog Público Sin Público</title>
     <link>/tags/</link>
     <description>Recent content in Tags on Blog Público Sin Público</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Aug 2025 22:09:10 +0200</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poesia</title>
+      <link>/tags/poesia/</link>
+      <pubDate>Tue, 05 Aug 2025 22:09:10 +0200</pubDate>
+      <guid>/tags/poesia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>/tags/personal/</link>
+      <pubDate>Tue, 05 Aug 2025 21:55:59 +0200</pubDate>
+      <guid>/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Escritura</title>
+      <link>/tags/escritura/</link>
+      <pubDate>Fri, 02 May 2025 09:24:38 +0200</pubDate>
+      <guid>/tags/escritura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lore</title>
+      <link>/tags/lore/</link>
+      <pubDate>Fri, 02 May 2025 08:53:52 +0200</pubDate>
+      <guid>/tags/lore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oñoño</title>
+      <link>/tags/o%C3%B1o%C3%B1o/</link>
+      <pubDate>Fri, 02 May 2025 08:53:52 +0200</pubDate>
+      <guid>/tags/o%C3%B1o%C3%B1o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cancion</title>
+      <link>/tags/cancion/</link>
+      <pubDate>Fri, 02 May 2025 08:39:41 +0200</pubDate>
+      <guid>/tags/cancion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Godot</title>
+      <link>/tags/godot/</link>
+      <pubDate>Sun, 15 Dec 2024 17:08:18 +0100</pubDate>
+      <guid>/tags/godot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Minilabs</title>
+      <link>/tags/minilabs/</link>
+      <pubDate>Sun, 15 Dec 2024 17:08:18 +0100</pubDate>
+      <guid>/tags/minilabs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cindy</title>
+      <link>/tags/cindy/</link>
+      <pubDate>Thu, 29 Aug 2024 20:49:58 +0200</pubDate>
+      <guid>/tags/cindy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fragmento</title>
+      <link>/tags/fragmento/</link>
+      <pubDate>Sat, 27 Jul 2024 15:45:19 +0200</pubDate>
+      <guid>/tags/fragmento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Relato</title>
+      <link>/tags/relato/</link>
+      <pubDate>Sat, 27 Jul 2024 15:23:08 +0200</pubDate>
+      <guid>/tags/relato/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fragmentos</title>
+      <link>/tags/fragmentos/</link>
+      <pubDate>Sat, 27 Jul 2024 13:48:14 +0200</pubDate>
+      <guid>/tags/fragmentos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Japonés</title>
+      <link>/tags/japon%C3%A9s/</link>
+      <pubDate>Wed, 22 May 2024 08:38:31 +0200</pubDate>
+      <guid>/tags/japon%C3%A9s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lyrics</title>
+      <link>/tags/lyrics/</link>
+      <pubDate>Wed, 22 May 2024 08:38:31 +0200</pubDate>
+      <guid>/tags/lyrics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Música</title>
+      <link>/tags/m%C3%BAsica/</link>
+      <pubDate>Wed, 22 May 2024 08:38:31 +0200</pubDate>
+      <guid>/tags/m%C3%BAsica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TMRevolution</title>
+      <link>/tags/tmrevolution/</link>
+      <pubDate>Wed, 22 May 2024 08:38:31 +0200</pubDate>
+      <guid>/tags/tmrevolution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Traducción</title>
+      <link>/tags/traducci%C3%B3n/</link>
+      <pubDate>Wed, 22 May 2024 08:38:31 +0200</pubDate>
+      <guid>/tags/traducci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Haiku</title>
+      <link>/tags/haiku/</link>
+      <pubDate>Thu, 09 May 2024 21:45:30 +0900</pubDate>
+      <guid>/tags/haiku/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arashi</title>
+      <link>/tags/arashi/</link>
+      <pubDate>Wed, 08 May 2024 22:31:23 +0200</pubDate>
+      <guid>/tags/arashi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>100</title>
+      <link>/tags/100/</link>
+      <pubDate>Wed, 20 Mar 2024 18:51:02 +0100</pubDate>
+      <guid>/tags/100/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mago Rosa</title>
+      <link>/tags/mago-rosa/</link>
+      <pubDate>Thu, 14 Mar 2024 14:08:11 +0100</pubDate>
+      <guid>/tags/mago-rosa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Wed, 21 Feb 2024 18:42:48 +0100</pubDate>
+      <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diosas</title>
+      <link>/tags/diosas/</link>
+      <pubDate>Thu, 25 Jan 2024 18:59:40 +0100</pubDate>
+      <guid>/tags/diosas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Egipto</title>
+      <link>/tags/egipto/</link>
+      <pubDate>Thu, 25 Jan 2024 18:59:40 +0100</pubDate>
+      <guid>/tags/egipto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mitología</title>
+      <link>/tags/mitolog%C3%ADa/</link>
+      <pubDate>Thu, 25 Jan 2024 18:59:40 +0100</pubDate>
+      <guid>/tags/mitolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oño</title>
+      <link>/tags/o%C3%B1o/</link>
+      <pubDate>Thu, 25 Jan 2024 18:59:40 +0100</pubDate>
+      <guid>/tags/o%C3%B1o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pluchus</title>
+      <link>/tags/pluchus/</link>
+      <pubDate>Thu, 25 Jan 2024 18:59:40 +0100</pubDate>
+      <guid>/tags/pluchus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Update</title>
+      <link>/tags/update/</link>
+      <pubDate>Mon, 08 Jan 2024 18:57:58 +0100</pubDate>
+      <guid>/tags/update/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>/tags/data/</link>
+      <pubDate>Mon, 08 Jan 2024 18:57:30 +0100</pubDate>
+      <guid>/tags/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wip</title>
+      <link>/tags/wip/</link>
+      <pubDate>Mon, 08 Jan 2024 18:54:40 +0100</pubDate>
+      <guid>/tags/wip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edad_media</title>
+      <link>/tags/edad_media/</link>
+      <pubDate>Fri, 05 Jan 2024 20:30:17 +0100</pubDate>
+      <guid>/tags/edad_media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Historia</title>
+      <link>/tags/historia/</link>
+      <pubDate>Fri, 05 Jan 2024 20:30:17 +0100</pubDate>
+      <guid>/tags/historia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notas</title>
+      <link>/tags/notas/</link>
+      <pubDate>Fri, 05 Jan 2024 20:30:17 +0100</pubDate>
+      <guid>/tags/notas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SigloV</title>
+      <link>/tags/siglov/</link>
+      <pubDate>Fri, 05 Jan 2024 20:30:17 +0100</pubDate>
+      <guid>/tags/siglov/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SigloXV</title>
+      <link>/tags/sigloxv/</link>
+      <pubDate>Fri, 05 Jan 2024 20:30:17 +0100</pubDate>
+      <guid>/tags/sigloxv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meditaciones</title>
+      <link>/tags/meditaciones/</link>
+      <pubDate>Sat, 30 Dec 2023 17:42:00 +0000</pubDate>
+      <guid>/tags/meditaciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edad_antigua</title>
+      <link>/tags/edad_antigua/</link>
+      <pubDate>Tue, 26 Dec 2023 20:30:17 +0100</pubDate>
+      <guid>/tags/edad_antigua/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prehistoria</title>
+      <link>/tags/prehistoria/</link>
+      <pubDate>Sat, 16 Dec 2023 13:12:00 +0000</pubDate>
+      <guid>/tags/prehistoria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conversaciones</title>
+      <link>/tags/conversaciones/</link>
+      <pubDate>Fri, 08 Dec 2023 20:20:00 +0000</pubDate>
+      <guid>/tags/conversaciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canciones</title>
+      <link>/tags/canciones/</link>
+      <pubDate>Sat, 25 Nov 2023 10:35:00 +0000</pubDate>
+      <guid>/tags/canciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alma</title>
+      <link>/tags/alma/</link>
+      <pubDate>Sun, 19 Nov 2023 17:18:00 +0000</pubDate>
+      <guid>/tags/alma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mineral</title>
+      <link>/tags/mineral/</link>
+      <pubDate>Sun, 19 Nov 2023 17:09:00 +0000</pubDate>
+      <guid>/tags/mineral/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Química</title>
+      <link>/tags/qu%C3%ADmica/</link>
+      <pubDate>Sun, 19 Nov 2023 17:09:00 +0000</pubDate>
+      <guid>/tags/qu%C3%ADmica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canción</title>
+      <link>/tags/canci%C3%B3n/</link>
+      <pubDate>Thu, 16 Nov 2023 17:11:56 +0100</pubDate>
+      <guid>/tags/canci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Catalán</title>
+      <link>/tags/catal%C3%A1n/</link>
+      <pubDate>Thu, 16 Nov 2023 11:11:00 +0000</pubDate>
+      <guid>/tags/catal%C3%A1n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Viaje</title>
+      <link>/tags/viaje/</link>
+      <pubDate>Mon, 23 Oct 2023 22:19:12 +0900</pubDate>
+      <guid>/tags/viaje/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glitch</title>
+      <link>/tags/glitch/</link>
+      <pubDate>Wed, 11 Oct 2023 23:32:49 +0900</pubDate>
+      <guid>/tags/glitch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>/tags/music/</link>
+      <pubDate>Fri, 29 Sep 2023 21:17:55 +0200</pubDate>
+      <guid>/tags/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Extracto</title>
+      <link>/tags/extracto/</link>
+      <pubDate>Sun, 20 Aug 2023 16:40:55 +0200</pubDate>
+      <guid>/tags/extracto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Felt Cute, Might Delete Later</title>
+      <link>/tags/felt-cute-might-delete-later/</link>
+      <pubDate>Sun, 20 Aug 2023 16:40:55 +0200</pubDate>
+      <guid>/tags/felt-cute-might-delete-later/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Libros</title>
+      <link>/tags/libros/</link>
+      <pubDate>Sun, 20 Aug 2023 16:40:55 +0200</pubDate>
+      <guid>/tags/libros/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tony Fadell</title>
+      <link>/tags/tony-fadell/</link>
+      <pubDate>Sun, 20 Aug 2023 16:40:55 +0200</pubDate>
+      <guid>/tags/tony-fadell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prueba</title>
+      <link>/tags/prueba/</link>
+      <pubDate>Sun, 06 Aug 2023 17:04:24 +0200</pubDate>
+      <guid>/tags/prueba/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Primer Post</title>
+      <link>/tags/primer-post/</link>
+      <pubDate>Sat, 22 Apr 2023 13:44:57 +0200</pubDate>
+      <guid>/tags/primer-post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

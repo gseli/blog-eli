@@ -1,8 +1,7 @@
 ---
 title: "Ronroneo_de_gato1"
 date: 2026-09-13T16:06:32+02:00
-tags: ["poesia"]
-categories: []
+tags: ['poesia']
 ---
 Por la noche deambulaba en la ciudad
 un gato negro gigante,
